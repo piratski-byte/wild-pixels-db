@@ -3,19 +3,22 @@
     {
       "id": 1,
       "title": "Wild Pixels Tournament Series Announced",
-      "content": "Get ready for battle! We’re launching the *Wild Pixels Tournament Series* this fall. Compete in weekly brackets, climb the leaderboard, and earn exclusive digital rewards. Whether you're a solo warrior or a team strategist — the arena awaits you.&nbsp;\nRegistration opens next week.",
+      "content": "Get ready for battle!\nWe’re launching the *Wild Pixels Tournament Series* this fall. Compete in weekly brackets, climb the leaderboard, and earn exclusive digital rewards.\nWhether you're a solo warrior or a team strategist — the arena awaits you.",
+      "trailer": "Registration opens next week."
       "date": "2025-09-01"
     },
     {
       "id": 2,
       "title": "Community Nights Begin",
-      "content": "Join us every Friday for community game nights! Share builds, test ideas, or just vibe with others who love games.\n\nFirst session starts **August 16th** — see you on Discord!",
+      "content": "Join us every Friday for community game nights!\nShare builds, test ideas, or just vibe with others who love games.",
+      "trailer": "First session starts **August 16th** — see you on Discord!"
       "date": "2025-08-05"
     },
     {
       "id": 3,
       "title": "Devlog Incoming",
-      "content": "We’re opening up our development process.\n\nFollow our *devlogs* and help shape the **Wild Pixels** experience together.\n\nFirst entry drops *soon*.",
+      "content": "We’re opening up our development process.\n\nFollow our *devlogs* and help shape the **Wild Pixels** experience together.",
+      "trailer": "First entry drops *soon*."
       "date": "2025-08-03"
     }
   ]
