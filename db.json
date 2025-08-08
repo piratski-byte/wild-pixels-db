@@ -22,7 +22,7 @@
       "date": "2025-08-03"
     }
   ],
-  "tournaments" [
+"tournaments": [
   {
     "id": 1,
     "name": "Northgard Tournament",
@@ -273,10 +273,10 @@
     ]
   }
 ],
-"announcementTournaments"[
+"announcementTournaments": [
   { "id": 1, "name": "Northgard" }
 ],
-"upcomingTournaments"[
+"upcomingTournaments": [
   { "id": 2, "name": "CS:GO" },
   { "id": 3, "name": "Dota 2" },
   { "id": 4, "name": "Valorant" }
