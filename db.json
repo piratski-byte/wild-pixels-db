@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Wild Pixels Tournament Series Announced",
-      "text": "Get ready for battle! We’re launching the Wild Pixels Tournament Series this fall. Compete in weekly brackets, climb the leaderboard, and earn exclusive digital rewards. Whether you're a solo warrior or a team strategist — the arena awaits you.\n\nRegistration opens next week.",
+      "text": "<p className={styles.newsletter}><strong>News #1: Wild Pixels Tournament Series Announced</strong><br /><br />Get ready for battle! We’re launching the{' '}<em>Wild Pixels Tournament Series</em> this fall. Compete in weeklybrackets, climb the leaderboard, and earn exclusive digital rewards.Whether you're a solo warrior or a team strategist — the arenaawaits you.<br /><br /><strong>Registration opens next week.</strong></p>",
       "date": "2025-09-01"
     },
     {
